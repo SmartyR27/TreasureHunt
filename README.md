@@ -2,7 +2,7 @@
 
 A Treasure Hunt game using python programming. 
 
-Hey folks welcome to a fun project! In this, you will learn how to make a text-based Treasure Hunt adventure game in python3 using functions. 
+Hey folks, welcome to a fun project! In this, you will learn how to make a text-based Treasure Hunt adventure game in python3 using functions. 
 This is how game works:
 
 <p align = center>
